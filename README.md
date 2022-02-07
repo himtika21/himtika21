@@ -1,4 +1,4 @@
-### OFFICIAL GITHUB ACCOUNT HIMTIKA 2021-2022 👋
+### Official Github HIMTIKA 2021-2022 👋
 
 <!--
 **himtika21/himtika21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
